@@ -1,0 +1,40 @@
+﻿<Page x:Class="ProizPract.HistoryObslug"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProizPract"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HistoryObslug">
+
+    <Grid Background="#FF8BB0E9" Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="История обслуживания" FontSize="20" FontStyle="Italic" FontWeight="Regular" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <DataGrid x:Name="IstObslug" HorizontalContentAlignment="Stretch" AutoGenerateColumns="False" IsReadOnly="True" Margin="0,32,0,0" Background="#FFD5EDFF">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id записи" Binding="{Binding id_zapisi}"/>
+                <DataGridTextColumn Header="Id оборудования" Binding="{Binding id_oborud}"/>
+                <DataGridTextColumn Header="Дата обслуживания" Binding="{Binding data_obslug, StringFormat=\{0:dd.MM.yyyy\}}"/>
+                <DataGridTextColumn Header="Примечания" Binding="{Binding primechaniya}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="EditBtn" Content="Изменить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="EditBtn_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+           
+            <Button x:Name="Add" Content="Добавить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Add_Click" />
+            <Button x:Name="Delet" Content="Удалить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Delet_Click" />
+            <Button x:Name="Otchet" Content="Отчёт" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Otchet_Click"/>
+            <Button x:Name="Nazad" Content="Назад" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Nazad_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,42 @@
+﻿<Page x:Class="ProizPract.Characterist"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProizPract"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Characterist">
+    <Grid Background="#FF8BB0E9" Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Характеристики оборудования" FontSize="20" FontStyle="Italic" FontWeight="Regular" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <DataGrid x:Name="Characteris" HorizontalContentAlignment="Stretch" AutoGenerateColumns="False" IsReadOnly="True" Margin="0,32,0,0" Background="#FFD5EDFF">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id характеристики" Binding="{Binding id_kateg}"/>
+                <DataGridTextColumn Header="Id оборудования" Binding="{Binding id_oborud}"/>
+                <DataGridTextColumn Header="Процессор" Binding="{Binding processor}"/>
+                <DataGridTextColumn Header="Оперативная память" Binding="{Binding operativn_pam}"/>
+                <DataGridTextColumn Header="Жёсткий диск" Binding="{Binding hard_disk}"/>
+                <DataGridTextColumn Header="Графический процессор" Binding="{Binding graf_proc}"/>
+                <DataGridTextColumn Header="Другое" Binding="{Binding drugoe}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="EditBtn" Content="Изменить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="EditBtn_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+          
+            <Button x:Name="Add" Content="Добавить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Add_Click"/>
+            <Button x:Name="Delet" Content="Удалить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Delet_Click"/>
+            <Button x:Name="Otchet" Content="Отчёт" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Otchet_Click"/>
+            <Button x:Name="Nazad" Content="Назад" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Nazad_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

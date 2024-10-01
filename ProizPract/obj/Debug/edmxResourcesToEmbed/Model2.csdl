@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UchetOborModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Characteristiki_oborudovania">
+    <Key>
+      <PropertyRef Name="id_kateg" />
+    </Key>
+    <Property Name="id_kateg" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_oborud" Type="Int32" Nullable="false" />
+    <Property Name="processor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="operativn_pam" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="hard_disk" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="graf_proc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="drugoe" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Oborudovanie" Relationship="Self.FK_Characteristiki_oborudovania_Oborudovanie" FromRole="Characteristiki_oborudovania" ToRole="Oborudovanie" />
+  </EntityType>
+  <EntityType Name="Istoriya_obslugivaniya">
+    <Key>
+      <PropertyRef Name="id_zapisi" />
+    </Key>
+    <Property Name="id_zapisi" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_oborud" Type="Int32" Nullable="false" />
+    <Property Name="data_obslug" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="primechaniya" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Oborudovanie" Relationship="Self.FK_Istoriya_obslugivaniya_Oborudovanie" FromRole="Istoriya_obslugivaniya" ToRole="Oborudovanie" />
+  </EntityType>
+  <EntityType Name="Oborudovanie">
+    <Key>
+      <PropertyRef Name="id_oborud" />
+    </Key>
+    <Property Name="id_oborud" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="naimenovanie" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="type" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="model" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="seriin_nom" Type="Int32" Nullable="false" />
+    <Property Name="data_priobr" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="srok_slugb" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sostoyanie" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Characteristiki_oborudovania" Relationship="Self.FK_Characteristiki_oborudovania_Oborudovanie" FromRole="Oborudovanie" ToRole="Characteristiki_oborudovania" />
+    <NavigationProperty Name="Istoriya_obslugivaniya" Relationship="Self.FK_Istoriya_obslugivaniya_Oborudovanie" FromRole="Oborudovanie" ToRole="Istoriya_obslugivaniya" />
+    <NavigationProperty Name="Stoimost" Relationship="Self.FK_Stoimost_Oborudovanie" FromRole="Oborudovanie" ToRole="Stoimost" />
+    <NavigationProperty Name="Vidannoe_oborudovanie" Relationship="Self.FK_Vidannoe_oborudovanie_Oborudovanie" FromRole="Oborudovanie" ToRole="Vidannoe_oborudovanie" />
+  </EntityType>
+  <EntityType Name="Polzovateli">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="position" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Vidannoe_oborudovanie" Relationship="Self.FK_Vidannoe_oborudovanie_Polzovateli" FromRole="Polzovateli" ToRole="Vidannoe_oborudovanie" />
+  </EntityType>
+  <EntityType Name="Stoimost">
+    <Key>
+      <PropertyRef Name="id_stoim" />
+    </Key>
+    <Property Name="id_stoim" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_oborud" Type="Int32" Nullable="false" />
+    <Property Name="count" Type="Int32" Nullable="false" />
+    <Property Name="cost" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Oborudovanie" Relationship="Self.FK_Stoimost_Oborudovanie" FromRole="Stoimost" ToRole="Oborudovanie" />
+  </EntityType>
+  <EntityType Name="Vidannoe_oborudovanie">
+    <Key>
+      <PropertyRef Name="id_vidachi" />
+    </Key>
+    <Property Name="id_vidachi" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_oborud" Type="Int32" Nullable="false" />
+    <Property Name="id_user" Type="Int32" Nullable="false" />
+    <Property Name="data_vidachi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="data_vozvrata" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Oborudovanie" Relationship="Self.FK_Vidannoe_oborudovanie_Oborudovanie" FromRole="Vidannoe_oborudovanie" ToRole="Oborudovanie" />
+    <NavigationProperty Name="Polzovateli" Relationship="Self.FK_Vidannoe_oborudovanie_Polzovateli" FromRole="Vidannoe_oborudovanie" ToRole="Polzovateli" />
+  </EntityType>
+  <Association Name="FK_Characteristiki_oborudovania_Oborudovanie">
+    <End Role="Oborudovanie" Type="Self.Oborudovanie" Multiplicity="1" />
+    <End Role="Characteristiki_oborudovania" Type="Self.Characteristiki_oborudovania" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oborudovanie">
+        <PropertyRef Name="id_oborud" />
+      </Principal>
+      <Dependent Role="Characteristiki_oborudovania">
+        <PropertyRef Name="id_oborud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Istoriya_obslugivaniya_Oborudovanie">
+    <End Role="Oborudovanie" Type="Self.Oborudovanie" Multiplicity="1" />
+    <End Role="Istoriya_obslugivaniya" Type="Self.Istoriya_obslugivaniya" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oborudovanie">
+        <PropertyRef Name="id_oborud" />
+      </Principal>
+      <Dependent Role="Istoriya_obslugivaniya">
+        <PropertyRef Name="id_oborud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stoimost_Oborudovanie">
+    <End Role="Oborudovanie" Type="Self.Oborudovanie" Multiplicity="1" />
+    <End Role="Stoimost" Type="Self.Stoimost" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oborudovanie">
+        <PropertyRef Name="id_oborud" />
+      </Principal>
+      <Dependent Role="Stoimost">
+        <PropertyRef Name="id_oborud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Vidannoe_oborudovanie_Oborudovanie">
+    <End Role="Oborudovanie" Type="Self.Oborudovanie" Multiplicity="1" />
+    <End Role="Vidannoe_oborudovanie" Type="Self.Vidannoe_oborudovanie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oborudovanie">
+        <PropertyRef Name="id_oborud" />
+      </Principal>
+      <Dependent Role="Vidannoe_oborudovanie">
+        <PropertyRef Name="id_oborud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Vidannoe_oborudovanie_Polzovateli">
+    <End Role="Polzovateli" Type="Self.Polzovateli" Multiplicity="1" />
+    <End Role="Vidannoe_oborudovanie" Type="Self.Vidannoe_oborudovanie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Polzovateli">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="Vidannoe_oborudovanie">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UchetOborEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Characteristiki_oborudovania" EntityType="Self.Characteristiki_oborudovania" />
+    <EntitySet Name="Istoriya_obslugivaniya" EntityType="Self.Istoriya_obslugivaniya" />
+    <EntitySet Name="Oborudovanie" EntityType="Self.Oborudovanie" />
+    <EntitySet Name="Polzovateli" EntityType="Self.Polzovateli" />
+    <EntitySet Name="Stoimost" EntityType="Self.Stoimost" />
+    <EntitySet Name="Vidannoe_oborudovanie" EntityType="Self.Vidannoe_oborudovanie" />
+    <AssociationSet Name="FK_Characteristiki_oborudovania_Oborudovanie" Association="Self.FK_Characteristiki_oborudovania_Oborudovanie">
+      <End Role="Oborudovanie" EntitySet="Oborudovanie" />
+      <End Role="Characteristiki_oborudovania" EntitySet="Characteristiki_oborudovania" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Istoriya_obslugivaniya_Oborudovanie" Association="Self.FK_Istoriya_obslugivaniya_Oborudovanie">
+      <End Role="Oborudovanie" EntitySet="Oborudovanie" />
+      <End Role="Istoriya_obslugivaniya" EntitySet="Istoriya_obslugivaniya" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stoimost_Oborudovanie" Association="Self.FK_Stoimost_Oborudovanie">
+      <End Role="Oborudovanie" EntitySet="Oborudovanie" />
+      <End Role="Stoimost" EntitySet="Stoimost" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Vidannoe_oborudovanie_Oborudovanie" Association="Self.FK_Vidannoe_oborudovanie_Oborudovanie">
+      <End Role="Oborudovanie" EntitySet="Oborudovanie" />
+      <End Role="Vidannoe_oborudovanie" EntitySet="Vidannoe_oborudovanie" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Vidannoe_oborudovanie_Polzovateli" Association="Self.FK_Vidannoe_oborudovanie_Polzovateli">
+      <End Role="Polzovateli" EntitySet="Polzovateli" />
+      <End Role="Vidannoe_oborudovanie" EntitySet="Vidannoe_oborudovanie" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

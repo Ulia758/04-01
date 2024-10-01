@@ -1,0 +1,184 @@
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\ProizPract.exe.config
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\ProizPract.exe
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\ProizPract.pdb
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.AssemblyReference.cache
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\MainWindow.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\App.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.cache
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.lref
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\MainWindow.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.g.resources
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.Properties.Resources.resources
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.GenerateResource.cache
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.CoreCompileInputs.cache
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.exe
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.pdb
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Avtorizaciya.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\MainPage.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract_Content.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\Uchet.mdf
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\Uchet_log.ldf
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\EntityFramework.dll
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\EntityFramework.xml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Avtorizaciya.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\MainPage.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.Up2Date
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Characterist.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\HistoryObslug.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Oborudov.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Polzovatel.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\VidannoeOborud.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Characterist.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\HistoryObslug.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Oborudov.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Polzovatel.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\VidannoeOborud.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddCharacterist.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddOborudov.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddPolzovatel.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddCharacterist.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddOborudov.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddPolzovatel.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddStoim.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Stoim.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\AddStoim.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Stoim.baml
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Zapros.g.cs
+C:\Users\uliak\source\repos\ProizPract\ProizPract\obj\Debug\Zapros.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\Uchet.mdf
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\Uchet_log.ldf
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\ProizPract.exe.config
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\ProizPract.exe
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\ProizPract.pdb
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\EntityFramework.dll
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\EntityFramework.xml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.AssemblyReference.cache
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddCharacterist.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddOborudov.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddPolzovatel.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddStoim.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Avtorizaciya.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Characterist.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\HistoryObslug.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainPage.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainWindow.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Oborudov.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Polzovatel.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Stoim.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\VidannoeOborud.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Zapros.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\App.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract_Content.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.cache
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.lref
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddCharacterist.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddOborudov.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddPolzovatel.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddStoim.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Avtorizaciya.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Characterist.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\HistoryObslug.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainPage.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainWindow.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Oborudov.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Polzovatel.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Stoim.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\VidannoeOborud.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Zapros.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.g.resources
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.Properties.Resources.resources
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.GenerateResource.cache
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.CoreCompileInputs.cache
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.Up2Date
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.exe
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\ProizPract.pdb
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Filtr.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\Filtr.baml
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainPageAdmin.g.cs
+C:\Users\uliak\Desktop\ПП2024\ProizPract\ProizPract\obj\Debug\MainPageAdmin.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Uchet.mdf
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Uchet_log.ldf
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\ProizPract.exe.config
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\ProizPract.exe
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\ProizPract.pdb
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\EntityFramework.dll
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.dll
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\EntityFramework.xml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\EntityFramework.SqlServer.xml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.resources.dll
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.AssemblyReference.cache
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddCharacterist.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddOborudov.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddPolzovatel.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddStoim.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Avtorizaciya.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Characterist.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Filtr.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\HistoryObslug.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainPage.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainPageAdmin.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainWindow.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Oborudov.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Polzovatel.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Stoim.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\VidannoeOborud.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Zapros.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\App.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract_Content.g.cs
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.cache
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract_MarkupCompile.lref
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddCharacterist.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddHistoryObslug.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddOborudov.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddPolzovatel.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddStoim.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\AddVidannoeOborud.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Avtorizaciya.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Characterist.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Filtr.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\HistoryObslug.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainPage.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainPageAdmin.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\MainWindow.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Oborudov.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Polzovatel.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Stoim.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\VidannoeOborud.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\Zapros.baml
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.g.resources
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.Properties.Resources.resources
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.GenerateResource.cache
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.CoreCompileInputs.cache
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.csproj.Up2Date
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.exe
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\ProizPract.pdb
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Database1.mdf
+D:\Прошлое\ПП2024 по 11.01\ProizPract\ProizPract\bin\Debug\Database1_log.ldf

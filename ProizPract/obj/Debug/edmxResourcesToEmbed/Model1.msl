@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище UchetOborModelContainer" CdmEntityContainer="UchetOborEntities">
+    <EntitySetMapping Name="Characteristiki_oborudovania">
+      <EntityTypeMapping TypeName="UchetOborModel.Characteristiki_oborudovania">
+        <MappingFragment StoreEntitySet="Characteristiki_oborudovania">
+          <ScalarProperty Name="id_kateg" ColumnName="id_kateg" />
+          <ScalarProperty Name="id_oborud" ColumnName="id_oborud" />
+          <ScalarProperty Name="processor" ColumnName="processor" />
+          <ScalarProperty Name="operativn_pam" ColumnName="operativn_pam" />
+          <ScalarProperty Name="hard_disk" ColumnName="hard_disk" />
+          <ScalarProperty Name="graf_proc" ColumnName="graf_proc" />
+          <ScalarProperty Name="drugoe" ColumnName="drugoe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Istoriya_obslugivaniya">
+      <EntityTypeMapping TypeName="UchetOborModel.Istoriya_obslugivaniya">
+        <MappingFragment StoreEntitySet="Istoriya_obslugivaniya">
+          <ScalarProperty Name="id_zapisi" ColumnName="id_zapisi" />
+          <ScalarProperty Name="id_oborud" ColumnName="id_oborud" />
+          <ScalarProperty Name="data_obslug" ColumnName="data_obslug" />
+          <ScalarProperty Name="primechaniya" ColumnName="primechaniya" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Oborudovanie">
+      <EntityTypeMapping TypeName="UchetOborModel.Oborudovanie">
+        <MappingFragment StoreEntitySet="Oborudovanie">
+          <ScalarProperty Name="id_oborud" ColumnName="id_oborud" />
+          <ScalarProperty Name="naimenovanie" ColumnName="naimenovanie" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="seriin_nom" ColumnName="seriin_nom" />
+          <ScalarProperty Name="data_priobr" ColumnName="data_priobr" />
+          <ScalarProperty Name="srok_slugb" ColumnName="srok_slugb" />
+          <ScalarProperty Name="sostoyanie" ColumnName="sostoyanie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Polzovateli">
+      <EntityTypeMapping TypeName="UchetOborModel.Polzovateli">
+        <MappingFragment StoreEntitySet="Polzovateli">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="position" ColumnName="position" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vidannoe_oborudovanie">
+      <EntityTypeMapping TypeName="UchetOborModel.Vidannoe_oborudovanie">
+        <MappingFragment StoreEntitySet="Vidannoe_oborudovanie">
+          <ScalarProperty Name="id_vidachi" ColumnName="id_vidachi" />
+          <ScalarProperty Name="id_oborud" ColumnName="id_oborud" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="data_vidachi" ColumnName="data_vidachi" />
+          <ScalarProperty Name="data_vozvrata" ColumnName="data_vozvrata" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stoimost">
+      <EntityTypeMapping TypeName="UchetOborModel.Stoimost">
+        <MappingFragment StoreEntitySet="Stoimost">
+          <ScalarProperty Name="cost" ColumnName="cost" />
+          <ScalarProperty Name="count" ColumnName="count" />
+          <ScalarProperty Name="id_oborud" ColumnName="id_oborud" />
+          <ScalarProperty Name="id_stoim" ColumnName="id_stoim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

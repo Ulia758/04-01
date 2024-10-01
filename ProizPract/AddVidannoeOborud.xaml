@@ -1,0 +1,38 @@
+﻿<Page x:Class="ProizPract.AddVidannoeOborud"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProizPract"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddVidannoeOborud">
+
+    <Grid>
+        <Canvas Height="NaN" Background="#FFD5EDFF">
+            <TextBlock Text="Id оборудования:" FontSize="15" FontStyle="Italic" FontWeight="Regular" Canvas.Left="61" Canvas.Top="80" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <TextBox Text="{Binding id_oborud}"  FontSize="14" Height="30" Background="#FFF6FBFF" Foreground="#DD000000" BorderBrush="#FF8DB0FD" Width="178" Canvas.Left="222" Canvas.Top="75" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Canvas>
+        <Canvas Height="NaN">
+            <TextBlock Text="Id пользователя:" FontSize="15" FontStyle="Italic" FontWeight="Regular" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="58" Canvas.Top="135"/>
+            <TextBox Text="{Binding id_user}" FontSize="14" Height="30" Background="#FFF6FBFF" Foreground="#DD000000" BorderBrush="#FF8DB0FD" Width="178" Canvas.Left="222" Canvas.Top="130"/>
+        </Canvas>
+        <Canvas Height="NaN" Margin="222,185,400,185">
+            <TextBlock Text="Дата выдачи:" FontSize="15" FontStyle="Italic" FontWeight="Regular" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="-166" Canvas.Top="5"/>
+            <TextBox Text="{Binding data_vidachi, StringFormat=\{0:dd.MM.yyyy\}}" FontSize="14" Height="30" Background="#FFF6FBFF" Foreground="#DD000000" BorderBrush="#FF8DB0FD" Width="178" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Canvas>
+        <Canvas Height="NaN">
+            <TextBlock Text="Дата возврата:" FontSize="15" FontStyle="Italic" FontWeight="Regular" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="54" Canvas.Top="249"/>
+            <TextBox Text="{Binding data_vozvrata, StringFormat=\{0:dd.MM.yyyy\}}" FontSize="14" Height="30" Background="#FFF6FBFF" Foreground="#DD000000" BorderBrush="#FF8DB0FD" Width="178" Canvas.Left="222" Canvas.Top="244"/>
+        </Canvas>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Background="#FF8BB0E9" Cursor="Hand">
+            <Button x:Name="Save" Content="Сохранить" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Save_Click" />
+            <Button x:Name="Back" Content="Назад" Margin="5" Height="30" Width="150" Background="#FFD5EDFF" Foreground="#DD000000" BorderBrush="#FF8BB0E9" Click="Back_Click" />
+        </StackPanel>
+        <TextBlock Text="Введите данные" FontSize="20" FontWeight="Light" Margin="0,0,0,368" HorizontalAlignment="Center"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+    </Grid>
+</Page>

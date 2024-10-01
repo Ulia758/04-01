@@ -1,0 +1,764 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\zapros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\zapros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\uchet_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\uchet_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\stoim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\stoim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\model3.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\model3.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\model3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\model3.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\model3.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\model3.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\model3.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\characterist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\characterist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\filtr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\filtr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\oborudov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\oborudov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\historyobslug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\historyobslug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|d:\\\u043F\u0440\u043E\u0448\u043B\u043E\u0435\\\u043F\u043F2024 \u043F\u043E 11.01\\proizpract\\proizpract\\addvidannoeoborud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addvidannoeoborud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\avtorizaciya.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\avtorizaciya.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\zapros.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\zapros.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addstoim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addstoim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addstoim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addstoim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addvidannoeoborud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addvidannoeoborud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addhistoryobslug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addhistoryobslug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addhistoryobslug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addhistoryobslug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addcharacterist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addcharacterist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addcharacterist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addcharacterist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addpolzovatel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addpolzovatel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addpolzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addpolzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addoborudov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addoborudov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\addoborudov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\addoborudov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\stoim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\stoim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\vidannoeoborud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\vidannoeoborud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\vidannoeoborud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\vidannoeoborud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\historyobslug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\historyobslug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\characterist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\characterist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\polzovatel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\polzovatel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\polzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\polzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\oborudov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\oborudov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\mainpageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\mainpageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\avtorizaciya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\avtorizaciya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\vidannoe_oborudovanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\vidannoe_oborudovanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\oborudovanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\oborudovanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\proizpract\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77482CC-31F8-4B9C-AA10-2282A06A8A96}|ProizPract\\ProizPract.csproj|solutionrelative:proizpract\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uchet_log.ldf",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Uchet_log.ldf",
+              "RelativeDocumentMoniker": "ProizPract\\Uchet_log.ldf",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Uchet_log.ldf",
+              "RelativeToolTip": "ProizPract\\Uchet_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIkSURBVDhPpVJLaFNBFD3zEtEuQqpCWqu0iEhFEcQY3PjZuNONoFLBH6ibighBRYK7SooBi1a7UXRRhGJxLyqiUtRFMYKCIH6wVYiJaWt8SV7eb653Jk0xaXShB\u002BbDvXPPnHtm8F8gotndv0OoKf0oRSR9ZyqXDzIpxwjFjuM61wzhUAt2xFZW8y8f9ruvnl4hvzBKrjVGvv2M6GucciOgvsER5qtCSiLPk2TZPkV3npiTbnz5NBHYEF0OsSiCQDDIIQFqP4Cxtrc4f7JHH7pwYxznBp8jce0FPL\u002Bh7eHUQd9M76HiZIoqM3epkr89TwEXke34VCz7NGN6dQqCxP2Sa4KsKciFSyAr07Ay77SCxL418CXQf3McZtnVBWcOx/Rag8H1jAW8Y/kiAMFr64pubM2uRXLoDhNIxA9tROLYZpw\u002BEoPj1begXK8\u002BxW8ofJvUCuK7u7lnYGA4Paegtyeq1xoMzVfHQAi3d2oFA9dHtWnbN3Vi17ZVejQq4BY4oAlqCcEKJrSCU0f3wuWC1V2L0dXRimWRcJMWeOJXVrMOKFPBf\u002BnegydIXhrSsb8hyNVCOan\u002Bn4LQcggXt/TBWZ9B2TZw//U69F5\u002B02iVhuFLIdRTaTMFl/MxNQxBkMwqpYDpLZ09Ph9GgG38\u002BOE9slkLjlWA69golglmSSD3M4TsD0Xa9HINnbmV3E\u002Bl/OdMyQ1FVEy5oRItYvq7TaG2s1cf/4EB\u002BAWfvx/NZ0PsMgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-05T08:25:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model3.edmx.diagram",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.edmx.diagram",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.edmx.diagram",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.edmx.diagram",
+              "RelativeToolTip": "ProizPract\\Model3.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T08:25:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model3.Designer.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Designer.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.Designer.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Designer.cs",
+              "RelativeToolTip": "ProizPract\\Model3.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:25:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model3.Context.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Context.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.Context.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Context.cs",
+              "RelativeToolTip": "ProizPract\\Model3.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:24:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model3.Context.tt",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Context.tt",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.Context.tt",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.Context.tt",
+              "RelativeToolTip": "ProizPract\\Model3.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-05T08:24:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model3.tt",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.tt",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.tt",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.tt",
+              "RelativeToolTip": "ProizPract\\Model3.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-05T08:24:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Filtr.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Filtr.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Filtr.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Filtr.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Filtr.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:57:17.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Oborudov.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudov.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Oborudov.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudov.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Oborudov.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:37:13.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zapros.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Zapros.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Zapros.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Zapros.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Zapros.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:39:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stoim.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Stoim.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Stoim.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Stoim.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Stoim.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA0wF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:57:13.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddVidannoeOborud.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddVidannoeOborud.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddVidannoeOborud.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddVidannoeOborud.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddVidannoeOborud.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIAzwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:17:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Connect.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Connect.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Connect.cs",
+              "RelativeToolTip": "ProizPract\\Connect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:12:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model3.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.edmx",
+              "RelativeDocumentMoniker": "ProizPract\\Model3.edmx",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Model3.edmx [Diagram1]",
+              "RelativeToolTip": "ProizPract\\Model3.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-04T16:29:10.005Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistoryObslug.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\HistoryObslug.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\HistoryObslug.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\HistoryObslug.xaml.cs",
+              "RelativeToolTip": "ProizPract\\HistoryObslug.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:37:29.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Characterist.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Characterist.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Characterist.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Characterist.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Characterist.xaml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:37:41.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Avtorizaciya.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Avtorizaciya.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Avtorizaciya.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Avtorizaciya.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Avtorizaciya.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:53:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\MainPage.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPage.xaml.cs",
+              "RelativeToolTip": "ProizPract\\MainPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:56:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Zapros.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Zapros.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Zapros.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Zapros.xaml",
+              "RelativeToolTip": "ProizPract\\Zapros.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T19:22:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddStoim.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddStoim.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddStoim.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddStoim.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddStoim.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:51:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddStoim.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddStoim.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddStoim.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddStoim.xaml",
+              "RelativeToolTip": "ProizPract\\AddStoim.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T16:45:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddVidannoeOborud.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddVidannoeOborud.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddVidannoeOborud.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddVidannoeOborud.xaml",
+              "RelativeToolTip": "ProizPract\\AddVidannoeOborud.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:17:07.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddHistoryObslug.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddHistoryObslug.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddHistoryObslug.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddHistoryObslug.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddHistoryObslug.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:16:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddHistoryObslug.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddHistoryObslug.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddHistoryObslug.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddHistoryObslug.xaml",
+              "RelativeToolTip": "ProizPract\\AddHistoryObslug.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:16:41.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCharacterist.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddCharacterist.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddCharacterist.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddCharacterist.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddCharacterist.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:16:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCharacterist.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddCharacterist.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddCharacterist.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddCharacterist.xaml",
+              "RelativeToolTip": "ProizPract\\AddCharacterist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:16:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddPolzovatel.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddPolzovatel.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddPolzovatel.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddPolzovatel.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddPolzovatel.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:17:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddPolzovatel.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddPolzovatel.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddPolzovatel.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddPolzovatel.xaml",
+              "RelativeToolTip": "ProizPract\\AddPolzovatel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:16:58.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddOborudov.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddOborudov.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\AddOborudov.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddOborudov.xaml.cs",
+              "RelativeToolTip": "ProizPract\\AddOborudov.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:16:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddOborudov.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddOborudov.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\AddOborudov.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\AddOborudov.xaml",
+              "RelativeToolTip": "ProizPract\\AddOborudov.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:16:49.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Stoim.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Stoim.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Stoim.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Stoim.xaml",
+              "RelativeToolTip": "ProizPract\\Stoim.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T16:45:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VidannoeOborud.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\VidannoeOborud.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\VidannoeOborud.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\VidannoeOborud.xaml.cs",
+              "RelativeToolTip": "ProizPract\\VidannoeOborud.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:15:34.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VidannoeOborud.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\VidannoeOborud.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\VidannoeOborud.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\VidannoeOborud.xaml",
+              "RelativeToolTip": "ProizPract\\VidannoeOborud.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T17:04:31.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HistoryObslug.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\HistoryObslug.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\HistoryObslug.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\HistoryObslug.xaml",
+              "RelativeToolTip": "ProizPract\\HistoryObslug.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:37:17.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Characterist.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Characterist.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Characterist.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Characterist.xaml",
+              "RelativeToolTip": "ProizPract\\Characterist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:32:03.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Polzovatel.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Polzovatel.xaml.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Polzovatel.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Polzovatel.xaml.cs",
+              "RelativeToolTip": "ProizPract\\Polzovatel.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:37:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Polzovatel.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Polzovatel.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Polzovatel.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Polzovatel.xaml",
+              "RelativeToolTip": "ProizPract\\Polzovatel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:36:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Oborudov.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudov.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Oborudov.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudov.xaml",
+              "RelativeToolTip": "ProizPract\\Oborudov.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T14:37:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainPageAdmin.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPageAdmin.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\MainPageAdmin.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPageAdmin.xaml",
+              "RelativeToolTip": "ProizPract\\MainPageAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T19:22:02.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\MainPage.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainPage.xaml",
+              "RelativeToolTip": "ProizPract\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T17:22:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Avtorizaciya.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Avtorizaciya.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\Avtorizaciya.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Avtorizaciya.xaml",
+              "RelativeToolTip": "ProizPract\\Avtorizaciya.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T18:05:03.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Vidannoe_oborudovanie.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Vidannoe_oborudovanie.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Vidannoe_oborudovanie.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Vidannoe_oborudovanie.cs",
+              "RelativeToolTip": "ProizPract\\Vidannoe_oborudovanie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:11:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Oborudovanie.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudovanie.cs",
+              "RelativeDocumentMoniker": "ProizPract\\Oborudovanie.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\Oborudovanie.cs",
+              "RelativeToolTip": "ProizPract\\Oborudovanie.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:52:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\App.config",
+              "RelativeDocumentMoniker": "ProizPract\\App.config",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\App.config",
+              "RelativeToolTip": "ProizPract\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T15:27:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProizPract\\MainWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0448\u043B\u043E\u0435\\\u041F\u041F2024 \u043F\u043E 11.01\\ProizPract\\ProizPract\\MainWindow.xaml",
+              "RelativeToolTip": "ProizPract\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T15:36:29.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
