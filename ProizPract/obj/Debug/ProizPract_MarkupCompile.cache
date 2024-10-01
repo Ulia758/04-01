@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\Прошлое\3 курс 2 семестр\ПП2024 по 11.01\ProizPract\ProizPract\obj\Debug\
+D:\Прошлое\3 курс 2 семестр\ПП версия без авторизации\ProizPract\ProizPract\obj\Debug\
 ProizPract
 none
 false
 DEBUG;TRACE
-E:\Прошлое\3 курс 2 семестр\ПП2024 по 11.01\ProizPract\ProizPract\App.xaml
+D:\Прошлое\3 курс 2 семестр\ПП версия без авторизации\ProizPract\ProizPract\App.xaml
 18-410430766
 61858938713
 34-524468385
-201406079838
+20-386857129
 AddCharacterist.xaml;AddHistoryObslug.xaml;AddOborudov.xaml;AddPolzovatel.xaml;AddStoim.xaml;AddVidannoeOborud.xaml;Avtorizaciya.xaml;Characterist.xaml;Filtr.xaml;HistoryObslug.xaml;MainPage.xaml;MainPageAdmin.xaml;MainWindow.xaml;Oborudov.xaml;Polzovatel.xaml;Stoim.xaml;VidannoeOborud.xaml;Zapros.xaml;
 
 True

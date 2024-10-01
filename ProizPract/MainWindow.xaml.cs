@@ -24,7 +24,7 @@ namespace ProizPract
         {
             InitializeComponent();
             Nav.MainFrame = MFrame;
-            Nav.MainFrame.Navigate(new Avtorizaciya());
+            Nav.MainFrame.Navigate(new MainPage());
         }
     }
 }

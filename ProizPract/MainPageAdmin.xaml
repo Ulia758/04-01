@@ -1,0 +1,33 @@
+﻿<Page x:Class="ProizPract.MainPageAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProizPract"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="830"
+      Title="MainPageAdmin">
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="/1674284262_catherineasquithgallery-com-p-fon-dlya-chata-serii-foto-22.jpg" Stretch="Fill" TileMode="Tile"/>
+        </Grid.Background>
+        <Image Source="/639437.gif" Margin="333,26,333,0" Height="44" VerticalAlignment="Top"/>
+        <Border MinWidth="50" Margin="10,91,10,0" Background="#FFD5EDFF" VerticalAlignment="Top" Padding="15" MaxWidth="450" CornerRadius="13" Height="430" >
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="16" Color="#FFDFDFDF" ShadowDepth="0"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Учёт оборудования" FontSize="30" FontWeight="Bold" Margin="0 0 0 10" HorizontalAlignment="Center"/>
+                <Button Name="Cop" Content="Выполнить резервное копирование" Margin="0 10" Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Cop_Click" />
+                <Button Name="Oborudovanie"  Content="Оборудование" Margin="0 10"  Background="#FF8BB0E9" Foreground="#DD000000" Cursor="Hand" BorderBrush="#FF496EFF" FontSize="16" Click="Oborudovanie_Click"/>
+                <Button Name="StoimostOborudovan"  Content="Стоимость оборудования" Margin="0 10"  Background="#FF8BB0E9" Foreground="#DD000000" Cursor="Hand" BorderBrush="#FF496EFF" FontSize="16" Click="StoimostOborudovan_Click" />
+                <Button Name="Characteristiki" Content="Характеристики" Margin="0 10"  Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Characteristiki_Click"/>
+                <Button Name="Vidannoe_oborudovanie" Content="Выданное оборудование" Margin="0 10"  Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Vidannoe_oborudovanie_Click"/>
+                <Button Name="Istoriya_obslugivaniya" Content="История обслуживания" Margin="0 10" Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Istoriya_obslugivaniya_Click"/>
+                <Button Name="Polzovateli" Content="Пользователи" Margin="0 10" Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Polzovateli_Click"/>
+                <Button Name="Exit" Content="Выход" Margin="0 10" Background="#FF8BB0E9" Foreground="#DD000000" BorderBrush="#FF496EFF" FontSize="16" Click="Exit_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

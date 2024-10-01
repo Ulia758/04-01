@@ -106,9 +106,6 @@
     <Compile Include="AddVidannoeOborud.xaml.cs">
       <DependentUpon>AddVidannoeOborud.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Avtorizaciya.xaml.cs">
-      <DependentUpon>Avtorizaciya.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Characterist.xaml.cs">
       <DependentUpon>Characterist.xaml</DependentUpon>
     </Compile>
@@ -126,9 +123,6 @@
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="MainPageAdmin.xaml.cs">
-      <DependentUpon>MainPageAdmin.xaml</DependentUpon>
     </Compile>
     <Compile Include="Model3.Context.cs">
       <AutoGen>True</AutoGen>
@@ -196,10 +190,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Avtorizaciya.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="Characterist.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -213,10 +203,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="MainPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="MainPageAdmin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
